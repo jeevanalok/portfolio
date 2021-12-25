@@ -1,0 +1,73 @@
+
+.links{
+    margin:1.05rem;
+}
+
+.links span {
+    font-size: 1.5rem;
+}
+/* dracula color scheme */
+
+.drac-bg{
+    background-color:#282a36;
+}
+.drac-fg{
+    color:#f8f8f2;
+}
+
+/* cl-current line */
+.drac-cl{
+    color:#44475a
+}
+.drac-select{
+    color:#44475a;
+}
+.drac-comment{
+    color:#6272a4;
+}
+.drac-bgcomment{
+    background-color:#44475a;
+}
+.drac-cyan{
+    color:#8be9fd;
+}
+.drac-green{
+    color:#50fa7b;
+}
+.drac-orange{
+    color:#ffb86c;
+}
+.drac-pink{
+    color:#ff79c6;
+}
+.drac-purple{
+    color:#bd93f9;
+}
+.drac-red{
+    color:#ff5555;
+}
+.drac-yellow{
+    color:#f1fa8c;
+}
+
+.card-body {
+    background-color: #44475a;
+}
+.card-footer{
+    background-color: #44475a;
+}
+.navbar-dark .navbar-nav .nav-link {
+    
+    color:#bd93f9;
+    font-weight: bolder;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    color: #ff79c6;
+}
+
+.navbar-dark .navbar-toggler {
+    color:rgba(255, 184, 108, 0.6);
+    border-color: rgba(241, 250, 140, 0.3);
+}
+
